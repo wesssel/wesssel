@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wessel</h1>
-<h3 align="center">Frontend engineer in Berlin</h3>
+<h3>Frontend engineer in Berlin</h3>
 
 
-- 👨‍💻 My company [https://takeit.agency/en](https://takeit.agency/en)
+👨‍💻 My company [https://takeit.agency](https://takeit.agency)
 
-- 💬 Ask me about **Vue, Typescript, Storyblok & project management**
+❤️‍🔥 Passionate about music, technology, running and cooking
 
-- 📫 How to reach me **wessel@takeit.agency**
+💬 Ask me about **Storyblok, Vue, Typescript & Project Management**
+
+📫 How to reach me **wessel@takeit.agency**
+
+📢 [Storyblok](https://github.com/storyblok) ambassador 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
